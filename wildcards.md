@@ -6,14 +6,15 @@
 - Symbols that stand in for other characters
 - Useful for searching for specific files / directories
 
-List of results (and contents):		`$ ls ___ `
-Info of resulting objects:  		`$ file ___`
+
+- List of results (and contents):		`$ ls ___ `
+- Info of resulting objects:  		`$ file ___`
 
 `   ?     *     []   `
 
 
 ### Example list.txt
-```
+```Linux
 $ ls
 
 Oad
